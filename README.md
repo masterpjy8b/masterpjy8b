@@ -1,22 +1,53 @@
-# Welcome to My GitHub!
+# 👋 Hi, I'm Irfan Jamalzai
 
-👋 Hi, I'm Irfan Jamalzai — a passionate future full-stack developer from Afghanistan 🇦🇫  
-🎯 I am determined to study Software Engineering at HSE Moscow and build powerful, world-class Islamic applications.  
+🎯 Aspiring Software Engineer with a strong dedication to excellence, deep learning, and full-stack development.
 
-## 📌 About Me
-- 🎓 High school GPA: ~98%
-- 🌍 Planning to study in Russian at HSE
-- Mascow for long-term access to high-quality education
-- 💻 Currently learning: Algorithms, Web Development (Full-Stack)
-- 💪 Committed to daily progress and long-term success
+---
 
-## 💼 Upcoming Projects
-- Islamic Education App for the Muslim world 🌙📱
-- Web-based portfolio & personal blog
-- Open-source Islamic AI tools (future goal)
+## 👨‍🎓 About Me
 
-## 📫 How to reach me:
+I am a highly motivated student from Afghanistan with big ambitions to become more than just an ordinary software engineer. My mission is to create impactful Islamic applications for the world and contribute to global change through technology and faith. I am currently preparing to pursue my higher education in Russia, with a focus on long-term access to high-quality academic resources and practical experience.
+
+---
+
+## 🔥 My Goals
+
+- 🎓 Study Software Engineering in Russia (HSE University, Moscow)
+- 🚀 Become a top-tier Full-Stack Developer
+- 🧠 Learn Artificial Intelligence (AI) after mastering full-stack
+- 🌐 Launch a global Islamic education app
+- 💼 Start international freelancing and reinvest all earnings into my app
+
+---
+
+## 🧠 Currently Learning
+
+- 💻 Web Development (HTML, CSS, JavaScript, React)
+- ⚙️ Backend Skills (Node.js, Express)
+- 🐍 Python for logic and future AI use
+- 🗃️ Git and GitHub for collaboration and project management
+
+---
+
+## 🌍 Languages I Speak
+
+- Persian (Farsi)
+- Pashto
+- Arabic
+- English
+- Currently learning Russian 🇷🇺
+
+---
+
+## 📞 Contact Me
+
+- Telegram (not set yet): Ir4an81643
 - Email: irfanjamalzai00@gmail.com
-- Telegram (optional): [] 
 
-> ✨ I believe that effort, vision, and faith will take me to the top.
+---
+
+## 📌 Final Words
+
+I work harder than most people and have committed my life to a bigger cause. I’m not just learning code — I’m building a legacy.
+
+Let’s change the world together.
