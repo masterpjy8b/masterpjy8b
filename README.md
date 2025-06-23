@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**masterpjy8b/masterpjy8b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Irfan Jamalzai — a passionate future full-stack developer from Afghanistan 🇦🇫  
+🎯 I am determined to study Software Engineering at HSE Moscow and build powerful, world-class Islamic applications.  
 
-Here are some ideas to get you started:
+## 📌 About Me
+- 🎓 High school GPA: ~98%
+- 🌍 Planning to study in Russian at HSE
+- Mascow for long-term access to high-quality education
+- 💻 Currently learning: Algorithms, Web Development (Full-Stack)
+- 💪 Committed to daily progress and long-term success
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Upcoming Projects
+- Islamic Education App for the Muslim world 🌙📱
+- Web-based portfolio & personal blog
+- Open-source Islamic AI tools (future goal)
+
+## 📫 How to reach me:
+- Email: irfanjamalzai00@gmail.com
+- Telegram (optional): [] 
+
+> ✨ I believe that effort, vision, and faith will take me to the top.
